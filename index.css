@@ -1,0 +1,44 @@
+body{
+    background-color: #d6b9f5;
+}
+.profile{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(172, 230, 241);
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 2%;
+    border: 1px solid;
+    box-shadow: 5px 5px 6px ;
+}
+.button{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(172, 230, 241);
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 3%;
+    border: 1px solid;
+    box-shadow: 5px 5px 6px ;
+}
+.button :hover{
+    
+}
+.education{
+    background-color: rgb(132, 231, 231);
+    color: rgb(57, 29, 29);
+}
+.tr1{
+    background-color: rgb(60, 232, 232);
+    color: black;
+}
+.form{
+    color: green;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+#male{
+    color: rgb(0, 0, 0);
+}
+#female{
+    color: rgb(0, 0, 0);
+}
